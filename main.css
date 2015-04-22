@@ -1,0 +1,26 @@
+.nav a {
+    color: #5a5a5a;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-image: url('jumbotronimage.jpg');
+    height: 225px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron .container {
+    font-family: 'Raleway',sans-serif;
+}
+
+.jumbotron .container .paragraph {
+    font-weight: 600;
+}
